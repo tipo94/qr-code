@@ -1,6 +1,5 @@
 {
     "name": "tipo94/qr-code",
-    "version": "1.0.0",
     "description": "QR Code Generator for PHP",
     "type": "library",
     "license": "MIT",
