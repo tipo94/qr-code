@@ -1,5 +1,6 @@
 {
     "name": "tipo94/qr-code",
+    "version": "1.0.0",
     "description": "QR Code Generator for PHP",
     "type": "library",
     "license": "MIT",
@@ -22,6 +23,5 @@
     "require-dev": {
         "khanamiryan/qrcode-detector-decoder": "^1.0",
         "phpunit/phpunit": "^6.5"
-    },
-    "version": "1.0.0"
+    }
 }
