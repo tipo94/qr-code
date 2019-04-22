@@ -22,5 +22,6 @@
     "require-dev": {
         "khanamiryan/qrcode-detector-decoder": "^1.0",
         "phpunit/phpunit": "^6.5"
-    }
+    },
+    "version": "1.0.0"
 }
